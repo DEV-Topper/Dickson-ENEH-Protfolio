@@ -65,8 +65,8 @@ export const CONFIG: Config = {
         //     icon: 'upwork',
         // },
         {
-            name: 'ferjani.Dickson@hotmail.fr',
-            url: 'mailto:ferjani.Dickson@hotmail.fr',
+            name: 'dickseneh99@gmail.com',
+            url: 'mailto:dickseneh99@gmail.com',
             icon: 'email',
         },
     ],
