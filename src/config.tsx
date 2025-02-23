@@ -143,7 +143,7 @@ export const CONFIG: Config = {
             image: '/images/finders.jpg',
             description:
                 'Finders Force is an upcoming mobile and web app that uses AI to connect depots with operations, streamlining traffic management while keeping you updated with the latest TM news and the Finders Force Movement.',
-            url: 'https://www.findersforce.com/',
+            url: 'https://play.google.com/store/apps/details?id=com.findersforce.findersforce',
             tags: [
                 { name: 'Next', icon: 'next' },
                 { name: 'TypeScript', icon: 'typescript' },
@@ -155,35 +155,63 @@ export const CONFIG: Config = {
             featured: false,
             // github: 'https://github.com/stormynight9/purng',
         },
-        // {
-        //     name: 'gson-image-labelizer',
-        //     icon: 'gsonImageLabelizer',
-        //     description:
-        //         'A tool that helps you label images and save them in local storage.',
-        //     url: 'https://gson.Dickson.run/',
-        //     tags: [
-        //         { name: 'Next', icon: 'next' },
-        //         { name: 'TypeScript', icon: 'typescript' },
-        //         { name: 'Tailwind CSS', icon: 'tailwindcss' },
-        //         { name: 'shadcn/ui', icon: 'shadcn' },
-        //     ],
-        //     featured: false,
-        //     github: 'https://github.com/stormynight9/gson-image-labelizer',
-        // },
-        // {
-        //     name: 'Ranmovanigen',
-        //     image: '/images/ranmovanigen.png',
-        //     description:
-        //         'A Website that uses Anilist API to generate a random anime movie and show its information and trailer.',
-        //     url: 'https://ranmovanigen.web.app/',
-        //     featured: false,
-        //     tags: [
-        //         { name: 'React', icon: 'react' },
-        //         { name: 'Tailwind CSS', icon: 'tailwindcss' },
-        //         { name: 'GraphQL', icon: 'graphQL' },
-        //     ],
-        //     github: 'https://github.com/stormynight9/random-anime-movie-generator',
-        // },
+        {
+            name: 'Wassapview',
+            image: '/images/wassap.svg',
+            description:
+                'WassapView helps users grow their WhatsApp audience by enabling contact sharing, bulk SMS sending, and increased status views.',
+            url: 'https://www.wassapview.com/',
+            tags: [
+                { name: 'Next', icon: 'next' },
+                { name: 'TypeScript', icon: 'typescript' },
+                { name: 'Tailwind CSS', icon: 'tailwindcss' },
+                { name: 'shadcn/ui', icon: 'shadcn' },
+            ],
+            featured: false,
+            // github: 'https://github.com/stormynight9/gson-image-labelizer',
+        },
+        {
+            name: 'Nombabase',
+            image: '/images/nombabase-logo.svg',
+            description:
+                'Nombabase is a modern Canadian online hub offering a range of resources, insights, and tools to empower users in their personal and professional endeavors. ',
+            url: 'https://www.nombabase.ca/',
+            featured: false,
+            tags: [
+                { name: 'React', icon: 'react' },
+                { name: 'Tailwind CSS', icon: 'tailwindcss' },
+                { name: 'GraphQL', icon: 'graphQL' },
+            ],
+            // github: 'https://github.com/stormynight9/random-anime-movie-generator',
+        },
+        {
+            name: 'kickstartintovos ',
+            image: '/images/kickstartintovos.png',
+            description:
+                'Kickstart into VOS is an innovative platform that equips you with expert insights, curated resources, and actionable strategies to launch your journey into the VOS ecosystem and thrive in the digital landscape. ',
+            url: 'https://kickstartintovos.com/',
+            featured: false,
+            tags: [
+                { name: 'React', icon: 'react' },
+                { name: 'Tailwind CSS', icon: 'tailwindcss' },
+                { name: 'GraphQL', icon: 'graphQL' },
+            ],
+            // github: 'https://github.com/stormynight9/random-anime-movie-generator',
+        },
+        {
+            name: 'GCET',
+            image: '/images/gcet.png',
+            description:
+                'GCET (Global Concept Emerge Technologies Ltd) is a premier IT services and consultancy provider based in Lagos, Nigeria. They empower businesses by building robust IT organizations and delivering innovative, tailored solutions to drive growth and efficiency. ',
+            url: 'https://www.gcetng.com/',
+            featured: false,
+            tags: [
+                { name: 'React', icon: 'react' },
+                { name: 'Tailwind CSS', icon: 'tailwindcss' },
+                { name: 'GraphQL', icon: 'graphQL' },
+            ],
+            // github: 'https://github.com/stormynight9/random-anime-movie-generator',
+        },
     ],
     openSource: {
         description:
